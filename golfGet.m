@@ -10,5 +10,6 @@
 %
 %
 function ballPos = golfGet(myImg)
+%testPush;
 	%use VideoReader function to load in .mov file, use spatial Laplacian to detect elipses (golf balls) in images
 end
